@@ -1,0 +1,17 @@
+body{ 
+    background-color: rgb(255, 255, 255); 
+} 
+h1{ color: blue; 
+} 
+h3{ color: blue; 
+}
+p{ color: black; 
+}
+a{ color: red;
+}
+footer{
+    display:flex;
+    justify-content: center;
+    height: 10px;
+    background-color: #f8f9fa;
+}
